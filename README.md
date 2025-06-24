@@ -30,7 +30,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-git commit -m "feat: initial implementation of fullstack auth system"  ──(Tue,Jun24)─┘
+git commit -m "feat: initial implementation of fullstack auth system"  
 On branch master
 nothing to commit, working tree clean
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
